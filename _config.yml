@@ -1,7 +1,7 @@
 title: "AI Engineering"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 url: "https://sistemasfernandolopez.github.io"
-baseurl: "/ai-engineering"
+baseurl: "/ai-hub"
 minimal_mistakes_skin: "air"
 
 author_profile: true

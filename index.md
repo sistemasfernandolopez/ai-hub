@@ -7,7 +7,7 @@ excerpt: "Documentación técnica de referencia."
 feature_row:
   - title: "Machine Learning"
     excerpt: "Algoritmos supervisados y optimización."
-    url: "/ml/"
+    url: "/ml/introduccion"
     btn_class: "btn--primary"
     btn_label: "Explorar"
   - title: "Deep Learning"
