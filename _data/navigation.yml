@@ -1,0 +1,9 @@
+docs:
+  - title: "Machine Learning"
+    children:
+      - title: "Introducción"
+        url: /ml/introduccion/
+  - title: "Deep Learning"
+    children:
+      - title: "Redes Neuronales"
+        url: /dl/redes-neuronales/

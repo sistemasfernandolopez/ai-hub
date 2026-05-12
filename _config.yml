@@ -1,0 +1,25 @@
+title: "AI Engineering"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+url: "https://sistemasfernandolopez.github.io"
+baseurl: "/ai-engineering"
+minimal_mistakes_skin: "air"
+
+author_profile: true
+include: ["_pages"]
+
+collections:
+  ml:
+    output: true
+    permalink: /ml/:path/
+  dl:
+    output: true
+    permalink: /dl/:path/
+  mlops:
+    output: true
+    permalink: /mlops/:path/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
